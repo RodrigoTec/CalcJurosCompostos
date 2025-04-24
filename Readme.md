@@ -7,6 +7,9 @@ Calculadora de juros compostos.
     t: é o número de períodos (tempo da aplicação).
 
 
-    Também conhecidos como "juros sobre juros", são calculados sobre o montante total, incluindo os juros acumulados de períodos anteriores. Isso significa que o valor do investimento ou da dívida cresce mais rapidamente do que no caso dos juros simples, onde os juros são calculados apenas sobre o valor inicial.
+    Também conhecidos como "juros sobre juros" 
+    São calculados sobre o montante total, incluindo os juros acumulados de períodos anteriores.
+    Isso significa que o valor do investimento ou da dívida cresce mais rapidamente
+    do que no caso dos juros simples, onde os juros são calculados apenas sobre o valor inicial.
 
  Nessa calculadora podemos definir periodos em mêses ou anos através do combobox.
